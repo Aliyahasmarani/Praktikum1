@@ -75,4 +75,11 @@ git remote add origin https://github.com/Aliyahasmarani/Praktikum1.git
 ```
 ![Gambar11](gambar/git10.png)
 
+## MENGIRIM PERUBAHAN KE SERVER (PUSH)
+Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
+```
+git push -u origin master
+```
+![Gambar12](gambar/git11.png)
+perintah ini akan meminta memasukkan username dan password pada akun github.com
 
