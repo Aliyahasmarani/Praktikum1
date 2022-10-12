@@ -23,5 +23,14 @@ Buka direktory aktif, misal: /d/praktikum1
 mkdir praktikum1
 cd praktikum1
 ```
+![Gambar4](gambar/git3.png)
 
+## MENJALANKAN GIT INIT
+Dengan perintah
+```
+git init
+```
+![Gambar5](gambar/git4.png)
+
+## MENAMBAHKAN
 
