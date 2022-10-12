@@ -45,5 +45,10 @@ git add README.md
 ```
 ![Gambar7](gambar/git6.png)
 
-
+## MENYIMPAN PERUBAHAN KE DATABASE (COMMIT)
+Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah
+```
+git commit -m "simpan1"
+```
+![Gambar8](gambar/git7.png)
 
