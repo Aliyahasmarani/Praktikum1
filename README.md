@@ -81,5 +81,6 @@ Untuk mengirim perubahan pada local repository ke server gunakan perintah git pu
 git push -u origin master
 ```
 ![Gambar12](gambar/git11.png)
+
 perintah ini akan meminta memasukkan username dan password pada akun github.com
 
