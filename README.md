@@ -52,3 +52,18 @@ git commit -m "simpan1"
 ```
 ![Gambar8](gambar/git7.png)
 
+## MEMBUAT REPOSITORY SERVER
+Server repository yang akan digunakan adalah
+```
+https://github.com
+```
+Kalian harus membuat akun terlebih dahulu.
+Pada laman github, klik tombol start a project, atau dari menu (icon +) klik New Repository
+![Gambar9](gambar/git8.png)
+
+## MEMBUAT REPOSITORY SERVER
+Isi nama repositorynya, misal:Rani1.
+Lalu klik tombol Create repository
+![Gambar10](gambar/git9.png)
+
+
