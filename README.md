@@ -21,6 +21,7 @@ Config Global Repository
 Buka direktory aktif, misal: /d/praktikum1
 ```
 mkdir praktikum1
+cd praktikum1
 ```
 
 
