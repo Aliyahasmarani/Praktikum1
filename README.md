@@ -32,5 +32,18 @@ git init
 ```
 ![Gambar5](gambar/git4.png)
 
-## MENAMBAHKAN
+## MENAMBAHKAN FILE BARU PADA REPOSITORY
+Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
+```
+echo "#Latihan1" >> README.md
+```
+![Gambar6](gambar/git5.png)
+
+Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
+```
+git add README.md
+```
+![Gambar7](gambar/git6.png)
+
+
 
