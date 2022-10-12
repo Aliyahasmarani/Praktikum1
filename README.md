@@ -19,7 +19,8 @@ Config Global Repository
 
 ## MEMBUAT REPOSITORY LOCAL
 Buka direktory aktif, misal: /d/praktikum1
-'''
+```
 mkdir praktikum1
-'''
+```
+
 
